@@ -1,0 +1,4 @@
+repository "NoEnd_Game@ewigur@cloud"
+  path "/"
+    br "/main"
+    co "/main"

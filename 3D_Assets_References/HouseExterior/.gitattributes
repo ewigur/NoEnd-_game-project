@@ -1,0 +1,2 @@
+HouseExterior.blend filter=lfs diff=lfs merge=lfs -text
+HouseExteriorUV.blend filter=lfs diff=lfs merge=lfs -text
